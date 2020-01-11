@@ -1,0 +1,44 @@
+body{
+	text-align: center;
+}
+.navbar{
+	background-color: black;
+}
+.navbar-brand{
+	color: white;
+}
+.img{
+	background-color: red;
+}
+.jumbotron{
+	text-align: center;
+	background-image: url("jumbo.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+#but{
+	background-color: white;
+	border-style: solid;
+	border-width: 0.1rem;
+	border-color: green;
+	color: green;
+	font-weight: 500;
+}
+#but:hover{
+	color: black;
+}
+#place-fluid{
+	margin-right: 40vh;	
+}
+.icon{
+	color: red;
+	border: 0.1rem solid red;
+	padding: 0.1rem;
+}
+.icon:hover{
+	color: pink;
+}
+.icon:focus{
+	color: pink;
+}
